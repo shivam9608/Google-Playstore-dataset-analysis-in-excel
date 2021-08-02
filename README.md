@@ -20,3 +20,6 @@ Some categories outperform other categories! To strengthen my hypothesis, I show
 Further, I also suggest the genre to guarantee success and the methods that would certainly escalate the growth of an app!
 
 The Work is free to be reused, edited, republished for all academic and commercial purposes! Giving credits would be highly appreciated! :)
+
+Here are a few Screen Captures of the dashboards:
+![3](https://user-images.githubusercontent.com/63108649/127888383-2bc9366c-8812-4d0c-9d76-ca810405e7f4.JPG) 

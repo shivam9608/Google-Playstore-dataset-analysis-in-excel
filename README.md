@@ -12,6 +12,14 @@ It contains the following fields:
   PRICE – The Price of the app on Playstore.
   CONTENT RATING – The content of the app is rated as per the titles like Everyone, Teens, 13+ or Adults, based on the content.
   GENRE – The genre to which the app belongs.
+  
+  Here are a few Screen Captures of the dashboards:
+
+![3](https://user-images.githubusercontent.com/63108649/127888383-2bc9366c-8812-4d0c-9d76-ca810405e7f4.JPG) 
+
+![1](https://user-images.githubusercontent.com/63108649/127888704-714e9fc8-5e7e-4186-b0b1-ba760edbbb3f.JPG)
+
+![2](https://user-images.githubusercontent.com/63108649/127888924-64ab7d90-121b-4f07-a684-69f255865dbc.JPG)
 	
 As recommended in our course-work, I used Tableau Prepbuilder to clean the Data. After the Preprocessing,
 I used excel to analyse the data and draw out some fruitful conclusions:
@@ -20,10 +28,3 @@ Some categories outperform other categories! To strengthen my hypothesis, I show
 Further, I also suggest the genre to guarantee success and the methods that would certainly escalate the growth of an app!
 
 The Work is free to be reused, edited, republished for all academic and commercial purposes! Giving credits would be highly appreciated! :)
-
-Here are a few Screen Captures of the dashboards:
-
-![3](https://user-images.githubusercontent.com/63108649/127888383-2bc9366c-8812-4d0c-9d76-ca810405e7f4.JPG) 
-
-![1](https://user-images.githubusercontent.com/63108649/127888704-714e9fc8-5e7e-4186-b0b1-ba760edbbb3f.JPG)
-
